@@ -1,4 +1,4 @@
-# LFAF
+# LFAF Lab 1
 
 ## Student: Sirețanu Andreia - Cristina
 
